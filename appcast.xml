@@ -1,0 +1,16 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Chicas (Android)</title>
+		<description>The changelog of updates to Chicas</description>
+		<link>https://github.com/sokoobo/projects/raw/main/appcast.xml</link>
+		<language>en</language>
+		<item>
+			<title>Version 0.0.2</title>
+			<description>
+				- Chicas is a new app to find love
+			</description>
+			<pubDate>Sat, 23 Jul 2022 09:15:59 +3280</pubDate>
+			<enclosure url="https://github.com/sokoobo/projects/raw/main/chicas.apk" sparkle:version="0.0.2" sparkle:os="android" length="32459607" type="application/octet-stream"/>
+		</item>
+	</channel>
+</rss>
